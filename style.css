@@ -22,3 +22,7 @@ h2 { margin-top: 1.5rem; }
 .date { color: #7a7266; font-size: 0.9rem; margin-top: -0.5rem; }
 a { color: #2b5d7a; }
 footer { color: #7a7266; font-size: 0.85rem; border-top: 1px solid #e3ddd0; margin-top: 3rem; }
+
+article { margin-bottom: 3rem; }
+article h2 { margin-bottom: 0.2rem; }
+.photo-small { float: right; width: 200px; max-width: 40%; margin: 0 0 1rem 1.25rem; border-radius: 4px; }
