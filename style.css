@@ -26,3 +26,6 @@ footer { color: #7a7266; font-size: 0.85rem; border-top: 1px solid #e3ddd0; marg
 article { margin-bottom: 3rem; }
 article h2 { margin-bottom: 0.2rem; }
 .photo-small { float: right; width: 200px; max-width: 40%; margin: 0 0 1rem 1.25rem; border-radius: 4px; }
+
+.jours { margin-top: 0.75rem; font-size: 0.95rem; color: #7a7266; }
+.jours a { margin: 0 0.2rem; }
